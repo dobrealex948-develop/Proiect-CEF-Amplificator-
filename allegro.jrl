@@ -1,0 +1,17 @@
+\t (00:00:27) allegro 16.6-2015 S059 (v16-6-112ER) Windows 32
+\t (00:00:27)     Journal start - Sat Dec 06 14:40:02 2025
+\t (00:00:27)         Host=DESKTOP-DHMU3VH User=User Pid=7092 CPUs=12
+\t (00:00:27) CmdLine= C:\OrCAD\OrCAD_16.6_Lite\tools\pcb\bin\allegro.exe -orcad
+\t (00:00:27) 
+\d (00:00:27) Design opened: C:/Users/User/Desktop/proiect_cef_ok/proiect_cef_ok/allegro/LAYOUT.brd
+\i (00:00:27) generaledit 
+\i (00:00:31) zoom in 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom in 766.57 871.59
+\i (00:00:31) trapsize 713
+\i (00:00:32) zoom out 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out 863.60 835.92
+\i (00:00:32) trapsize 1427
+\i (00:13:08) exit 
+\t (00:13:09)     Journal end - Sat Dec 06 14:52:43 2025

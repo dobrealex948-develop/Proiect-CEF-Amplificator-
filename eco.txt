@@ -1,0 +1,450 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:/Users/Adelin/Downloads/for Layout/LAYOUT_25_26.brd                       |
+|                                                    Sat Dec 06 09:08:47 2025  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  0            pins MOVED FROM this net (to net name listed on right)
+                                 R1.1                           
+                                                                         N30350
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 R11.1                          
+                                 RJ2.1                          
+                                 VCC.1                          
+                                 VEE.1                          
+                                 VIN.2                          
+                                 VOUT.1                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N30210       pins ADDED TO this new net
+                                 U4.C                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N30220       pins ADDED TO this new net
+                                 R12.2                          
+                                 R13.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N30356       pins ADDED TO this new net
+                                 R2.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N30418       pins ADDED TO this new net
+                                 RJ1.2                          
+                                 RJ.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N32340       pins ADDED TO this new net
+                                 U4.A                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N257462      net RENAMED (to net name listed on right)           N30156       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N257492      pins MOVED FROM this net (to net name listed on right)
+                                 Q1.2                           
+                                                                         N30350
+                                 R3.1                           
+                                                                            VEE
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N257498      pins MOVED FROM this net (to net name listed on right)
+                                 Q2.2                           
+                                                                         N30356
+                                 R4.1                           
+                                                                            VEE
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N257504      pins MOVED FROM this net (to net name listed on right)
+                                 Q1.1                           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:/Users/Adelin/Downloads/for Layout/LAYOUT_25_26.brd                       |
+|                                                    Sat Dec 06 09:08:47 2025  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                                                             V+
+                                 Q1.3                           
+                                                                         N30394
+                                 Q2.1                           
+                                                                             V-
+                                 Q7.1                           
+                                                                         N30210
+                                 R1.2                           
+                                                                        N289748
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N257664      pins MOVED FROM this net (to net name listed on right)
+                                 Q7.3                           
+                                                                         N30166
+                                 Q8.2                           
+                                                                            VCC
+                                 Q11.1                          
+                                                                         N30316
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N257714      pins MOVED FROM this net (to net name listed on right)
+                                 Q2.3                           
+                                                                         N30398
+                                 Q3.2                           
+                                                                         N30472
+                                 Q4.2                           
+                                                                         N30478
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N257720      pins MOVED FROM this net (to net name listed on right)
+                                 Q11.2                          
+                                                                         N30362
+                                 R9.1                           
+                                                                            VEE
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N257810      pins MOVED FROM this net (to net name listed on right)
+                                 R9.2                           
+                                                                         N30450
+                                 R10.1                          
+                                                                             V-
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N257814      pins MOVED FROM this net (to net name listed on right)
+                                 U1.C                           
+                                                                         N32272
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N257824      pins MOVED FROM this net (to net name listed on right)
+                                 U2.A                           
+                                                                         N32272
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:/Users/Adelin/Downloads/for Layout/LAYOUT_25_26.brd                       |
+|                                                    Sat Dec 06 09:08:47 2025  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N257966      pins MOVED FROM this net (to net name listed on right)
+                                 RL.2                           
+                                                                           VOUT
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N258006      pins MOVED FROM this net (to net name listed on right)
+                                 Q8.1                           
+                                                                         N30166
+                                 Q8.3                           
+                                                                           VOUT
+                                 Q9.1                           
+                                                                         N30362
+                                 Q9.3                           
+                                                                           VOUT
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N258258      pins MOVED FROM this net (to net name listed on right)
+                                 Q3.1                           
+                                                                         N30398
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N258282      pins MOVED FROM this net (to net name listed on right)
+                                 Q4.1                           
+                                                                         N30398
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N258348      pins MOVED FROM this net (to net name listed on right)
+                                 Q3.3                           
+                                                                         N30394
+                                 Q5.3                           
+                                                                         N30220
+                                 Q10.1                          
+                                                                         N30166
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N258354      pins MOVED FROM this net (to net name listed on right)
+                                 Q4.3                           
+                                                                         N30398
+                                 Q5.1                           
+                                                                         N30200
+                                 Q6.1                           
+                                                                         N30394
+                                 Q6.3                           
+                                                                         N30362
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N258408      pins MOVED FROM this net (to net name listed on right)
+                                 R10.2                          
+                                                                        N289879
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N258420      pins MOVED FROM this net (to net name listed on right)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:/Users/Adelin/Downloads/for Layout/LAYOUT_25_26.brd                       |
+|                                                    Sat Dec 06 09:08:47 2025  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 Q9.2                           
+                                                                            VEE
+                                 Q10.3                          
+                                                                         N30166
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N258426      pins MOVED FROM this net (to net name listed on right)
+                                 RL.1                           
+                                                                              0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N258850      pins MOVED FROM this net (to net name listed on right)
+                                 Q10.2                          
+                                                                         N30316
+                                 R8.1                           
+                                                                              0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N258974      net RENAMED (to net name listed on right)           N30178       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N258980      pins MOVED FROM this net (to net name listed on right)
+                                 Q6.2                           
+                                                                         N30450
+                                 R6.1                           
+                                                                              0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N259266      pins MOVED FROM this net (to net name listed on right)
+                                 U3.C                           
+                                                                         N32340
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N259318      pins MOVED FROM this net (to net name listed on right)
+                                 U3.A                           
+                                                                            VCC
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N289748      pins ADDED TO this new net
+                                 R12.1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N289752      pins ADDED TO this new net
+                                 R2.2                           
+                                 R13.1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N289879      pins ADDED TO this new net
+                                 R14.1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N290150      pins ADDED TO this new net
+                                 RJ1.1                          
+                                 RJ2.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:/Users/Adelin/Downloads/for Layout/LAYOUT_25_26.brd                       |
+|                                                    Sat Dec 06 09:08:47 2025  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  V+           pins ADDED TO this new net
+                                 RJ.2                           
+                                 VIN.1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  V-           pins ADDED TO this new net
+                                 R11.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC          pins ADDED TO this new net
+                                 VCC.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDD          pins MOVED FROM this net (to net name listed on right)
+                                 Q11.3                          
+                                                                         N30316
+                                 R3.2                           
+                                                                         N30472
+                                 R4.2                           
+                                                                         N30478
+                                 R7.2                           
+                                                                            VCC
+                                 U1.A                           
+                                                                            VCC
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VEE          pins ADDED TO this new net
+                                 VEE.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VOUT         pins ADDED TO this new net
+                                 R14.2                          
+                                 VOUT.2                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VSS          pins MOVED FROM this net (to net name listed on right)
+                                 R5.2                           
+                                                                            VCC
+                                 R6.2                           
+                                                                         N30200
+                                 R8.2                           
+                                                                         N30210
+                                 U2.C                           
+                                                                         N30200
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:/Users/Adelin/Downloads/for Layout/LAYOUT_25_26.brd                       |
+|                                                    Sat Dec 06 09:08:47 2025  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to board drawing                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 1N4148_0_SMD0805_1N4148
+ QBC846B_0_TO236_QBC846B
+ QBC856B_0_TO236_QBC856B
+ QMJD31C_0_DPACK_QMJD31C
+ QMJD32CT4G_0_DPACK_QMJD32CT4G
+ R_SMR0805_150
+ R_SMR0805_510
+ R_SMR0805_100K
+ R_SMR0805_1K
+ R_SMR0805_2.7K
+ R_SMR0805_3.3K
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  C:/Users/Adelin/Downloads/for Layout/LAYOUT_25_26.brd                       |
+|                                                    Sat Dec 06 09:08:47 2025  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from board drawing                                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  C_SMC0805_1N                         
+ C2                  C_SMC0805_1N                         
+ C3                  C_SMC0805_1U                         
+ C5                  C_SMC0805_10N                        
+ CC                  C_SMC0805_470P                       
+ OUT                 CON2_JUMPER2_CON2                    
+ POT1                POT_TS53YL_100K                      
+ POT2                POT_TS53YL_100K                      
+ Q12                 QBC856B_10_TO236_QBC856B                
+ RA1                 R_SMR0805_22K                        
+ RA2                 R_SMR0805_10K                        
+ RD2                 R_SMR0805_100                        
+ RD5                 R_SMR0805_100                        
+ RF1                 R_SMR0805_910                        
+ RF2                 R_SMR0805_15K                        
+ RF3                 R_SMR0805_1.8K                       
+ RF4                 R_SMR0805_910                        
+ RF5                 R_SMR0805_1.8K                       
+ RF6                 R_SMR0805_15K                        
+ RF7                 R_SMR0805_1.8K                       
+ RF8                 R_SMR0805_2.2K                       
+ RF9                 R_SMR0805_2.2K                       
+ RF10                R_SMR0805_1.8K                       
+ RL1                 R_SMR0805_2K                         
+ RR1                 R_SMR0805_220                        
+ RR2                 R_SMR0805_220                        
+ RR3                 R_SMR0805_22K                        
+ RR4                 R_SMR0805_22K                        
+ RR5                 R_SMR0805_22K                        
+ RR6                 R_SMR0805_47K                        
+ RR7                 R_SMR0805_2.2K                       
+ T1                  JMMBFJ309LT1_5_TO236_JMMBFJ309L                
+ VDD                 CON2_JUMPER2_CON2                    
+ VSS                 CON2_JUMPER2_CON2                    
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  C:/Users/Adelin/Downloads/for Layout/LAYOUT_25_26.brd                       |
+|                                                    Sat Dec 06 09:08:47 2025  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R2                  R_SMR0805_150         
+ R11                 R_SMR0805_1K          
+ R12                 R_SMR0805_100         
+ R13                 R_SMR0805_100         
+ R14                 R_SMR0805_3.3K        
+ RJ1                 R_SMR0805_2.2K        
+ RJ2                 R_SMR0805_2.7K        
+ RJ                  R_SMR0805_100K        
+ U4                  1N4148_0_SMD0805_1N4148 
+ VCC                 CON2_JUMPER2_CON2     
+ VEE                 CON2_JUMPER2_CON2     
+ VIN                 CON2_JUMPER2_CON2     
+ VOUT                CON2_JUMPER2_CON2     
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  C:/Users/Adelin/Downloads/for Layout/LAYOUT_25_26.brd                       |
+|                                                    Sat Dec 06 09:08:47 2025  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in board drawing          |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ Q1                  QBC856B_0_TO236_QBC856B                 QBC856B_10_TO236_QBC856B
+ Q2                  QBC856B_0_TO236_QBC856B                 QBC856B_10_TO236_QBC856B
+ Q3                  QBC846B_0_TO236_QBC846B                 QBC856B_10_TO236_QBC856B
+ Q4                  QBC846B_0_TO236_QBC846B                 QBC856B_10_TO236_QBC856B
+ Q5                  QBC856B_0_TO236_QBC856B                 QBC846B_7_TO236_QBC846B
+ Q6                  QBC846B_0_TO236_QBC846B                 QBC846B_7_TO236_QBC846B
+ Q7                  QBC856B_0_TO236_QBC856B                 QBC856B_10_TO236_QBC856B
+ Q8                  QMJD31C_0_DPACK_QMJD31C                 QBC856B_10_TO236_QBC856B
+ Q9                  QMJD32CT4G_0_DPACK_QMJD32CT4G                 QBC846B_7_TO236_QBC846B
+ Q10                 QBC846B_0_TO236_QBC846B                 QBC846B_7_TO236_QBC846B
+ Q11                 QBC846B_0_TO236_QBC846B                 QBC846B_7_TO236_QBC846B
+ R1                  R_SMR0805_150                         R_SMR0805_6.8K
+ R3                  R_SMR0805_100                         R_SMR0805_51
+ R4                  R_SMR0805_100                         R_SMR0805_51
+ R5                  R_SMR0805_1K                          R_SMR0805_51
+ R6                  R_SMR0805_510                         R_SMR0805_51
+ R7                  R_SMR0805_100                         R_SMR0805_51
+ R8                  R_SMR0805_510                         R_SMR0805_33
+ R9                  R_SMR0805_51                          R_SMR0805_10
+ R10                 R_SMR0805_10K                         R_SMR0805_10
+ RL                  R_SMR0805_10                          R_SMR0805_15K
+ U1                  1N4148_0_SMD0805_1N4148                 1N4148_11_SMD0805_1N4148
+ U2                  1N4148_0_SMD0805_1N4148                 1N4148_11_SMD0805_1N4148
+ U3                  1N4148_0_SMD0805_1N4148                 1N4148_12_SMD0805_1N4148
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  10  |
+|------------------------------------------------------------------------------|
+|  C:/Users/Adelin/Downloads/for Layout/LAYOUT_25_26.brd                       |
+|                                                    Sat Dec 06 09:08:47 2025  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ Q1.3                           PRIM_FILE      .\pstchip.dat
+ Q2.3                           PRIM_FILE      .\pstchip.dat
+ Q3.3                           PRIM_FILE      .\pstchip.dat
+ Q4.3                           PRIM_FILE      .\pstchip.dat
+ Q5.3                           PRIM_FILE      .\pstchip.dat
+ Q6.3                           PRIM_FILE      .\pstchip.dat
+ Q7.3                           PRIM_FILE      .\pstchip.dat
+ Q8.3                           PRIM_FILE      .\pstchip.dat
+ Q9.3                           PRIM_FILE      .\pstchip.dat
+ Q10.3                          PRIM_FILE      .\pstchip.dat
+ Q11.3                          PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R9.2                           PRIM_FILE      .\pstchip.dat
+ R10.2                          PRIM_FILE      .\pstchip.dat
+ R11.2                          PRIM_FILE      .\pstchip.dat
+ R12.2                          PRIM_FILE      .\pstchip.dat
+ R13.2                          PRIM_FILE      .\pstchip.dat
+ R14.2                          PRIM_FILE      .\pstchip.dat
+ RJ1.2                          PRIM_FILE      .\pstchip.dat
+ RJ2.2                          PRIM_FILE      .\pstchip.dat
+ RJ.2                           PRIM_FILE      .\pstchip.dat
+ RL.2                           PRIM_FILE      .\pstchip.dat
+ U1.C                           PRIM_FILE      .\pstchip.dat
+ U2.C                           PRIM_FILE      .\pstchip.dat
+ U3.C                           PRIM_FILE      .\pstchip.dat
+ U4.C                           PRIM_FILE      .\pstchip.dat
+ VCC.2                          PRIM_FILE      .\pstchip.dat
+ VEE.2                          PRIM_FILE      .\pstchip.dat
+ VIN.2                          PRIM_FILE      .\pstchip.dat
+ VOUT.2                         PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  202                                            |
+|------------------------------------------------------------------------------|
